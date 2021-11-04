@@ -1,16 +1,22 @@
-/*!
- * @brief This code implements the "Soma Vizinhos" programming problem
- * @author selan
- * @data June, 6th 2021
- */
-#include <iostream>
-using std::cout;
-using std::cin;
-using std::endl;
+/ #include <iostream>
 
-int main( void )
-{
-    // TODO: Adicione seu código aqui. 
+int main(void) {
 
-    return 0;
+    int cont, total, n, m;
+    while (std::cin >> std::ws >> m >> n) {
+
+        if (n > 1) {
+            for (cont = m, total = 0; cont < n + m; cont += 1) {
+                total += cont;
+            }
+        }
+        else if (n < 1) {
+            for (cont = m, total = 0; cont > n + m; cont -= 1) {
+                total -= (cont * -1);
+            }
+        }
+        std::cout << total << std::endl;
+    }
+
+
 }
