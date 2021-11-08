@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/function.h
+vector
+-
+
+../tests/lib/test_manager/include/test_manager.h
+iostream
+-
+iomanip
+-
+algorithm
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/fibonacci/tests/lib/test_manager/src/test_manager.cpp
+test_manager.h
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/fibonacci/tests/lib/test_manager/src/test_manager.h
+
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/fibonacci/tests/main.cpp
+iostream
+-
+cassert
+-
+random
+-
+iterator
+-
+vector
+-
+test_manager.h
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/fibonacci/tests/test_manager.h
+function.h
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/fibonacci/tests/function.h
+

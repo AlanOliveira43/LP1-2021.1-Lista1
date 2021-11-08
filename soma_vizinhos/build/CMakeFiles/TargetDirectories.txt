@@ -1,0 +1,4 @@
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/soma_vizinhos/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/soma_vizinhos/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/soma_vizinhos/build/CMakeFiles/verify.dir
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/soma_vizinhos/build/CMakeFiles/program.dir

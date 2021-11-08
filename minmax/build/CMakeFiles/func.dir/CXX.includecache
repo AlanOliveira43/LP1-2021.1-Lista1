@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/minmax/src/function.cpp
+function.h
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/minmax/src/function.h
+stdio.h
+-
+
+/mnt/c/Users/castr/OneDrive/Documentos/lip1Doc/LP1-2021.1-Lista1/minmax/src/function.h
+utility
+-
+
